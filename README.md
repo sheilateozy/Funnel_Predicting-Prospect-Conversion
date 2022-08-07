@@ -25,6 +25,12 @@ This project uses 60 million records with 400+ features that contain information
 4. Feature engineering
 5. Train and tune models using Bayesian Optimization: Logistic Regression, CatBoost, XGBoost
 6. Obtain SHAP feature importances
+
+# Results: Making an impact at Funnel
+In total, we built 3 models that each predicts a prospective renter's conversion rate at a distinct point of their journey. The models have an ROC-AUC of 91%, 60%, and 66% respectively. This means that the first model ranks 91% of prospective renters correctly in terms of their conversion rate. This leads to:
+<li>Time savings of 250 hours a year from leasing agents having to manually go through each new prospect before deciding who to reach out to.
+<li>50% increase in successful rents by leasing agents who are able to go after the most lucrative prospects from the get-go.
+<li>30% increase in Funnel's software functionality thus enhancing its utility to leasing agents.
   
 # Still curious?
 Check out this project on my website <a href="_____">here</a> :)
