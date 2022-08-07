@@ -29,7 +29,7 @@ This project uses 60 million records with 400+ features that contain information
 2. Make modelling decisions: Build 1 model per stage of prospective renter's journey<br>
 3. Feature selection using Permutation Importance in a CatBoost model: 400 to 50 features
 4. Feature engineering
-5. Train & tune models using Bayesian Optimization: Logistic Regression, CatBoost, XGBoost
+5. Train and tune models using Bayesian Optimization: Logistic Regression, CatBoost, XGBoost
 6. Obtain SHAP feature importances
   
 # Still curious?
