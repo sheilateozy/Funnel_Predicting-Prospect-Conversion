@@ -1,1 +1,1 @@
-<h1>Predicting Funnel's prospect conversion<small>Using Logistic Regression, CatBoost, Random Forest, XGBoost</small></h1>
+<h1>Predicting Funnel's prospect conversion<p>Using Logistic Regression, CatBoost, Random Forest, XGBoost</p></h1>
