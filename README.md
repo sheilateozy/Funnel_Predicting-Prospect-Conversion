@@ -16,12 +16,10 @@ Our project involves creating a machine learning model that scores prospective r
 Prior to this project, leasing agents who use Funnel's software have no predetermined method of filtering through hundreds of new prospective renters that come in everyday, in deciding which ones are more important to follow up on. This project aims to enhance the software's capabilities by integrating this machine learning model into its system. With this, all prospective renters that express interest will be ranked by likely conversion rate and leasing agents can then prioritize them accordingly to help maximise conversion results. This increase the utility that Funnel's software provides to leasing agents.
   
 # Results: Making an impact at Funnel
-In total, we built 3 models that each predicts a prospective renter's conversion rate at a distinct point of their journey. The models have an ROC-AUC of 91%, 60%, and 66% respectively. This means that the first model ranks 91% of prospective renters correctly in terms of their conversion rate. This leads to:
+In total, we built 3 models that each predicts a prospective renter's conversion rate at a distinct point of their journey. The models have an ROC-AUC of 91%, 60%, and 66% respectively. This means that the first model ranks 91% of prospective renters correctly in terms of their conversion rate. This leads to:<br>
+<span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">Time savings</span> of 250 hours a year from leasing agents having to manually go through each new prospect before deciding who to reach out to.<br>
+<span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">50% increase in successful rents</span> by leasing agents who are able to go after the most lucrative prospects from the get-go.<br>
+<span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">30% increase in Funnel's software functionality</span> thus enhancing its utility to leasing agents.
 
- <p>
-  <span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">Time savings</span> of 250 hours a year from leasing agents having to manually go through each new prospect before deciding who to reach out to.<br>
-  <span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">50% increase in successful rents</span> by leasing agents who are able to go after the most lucrative prospects from the get-go.<br>
-  <span style="font-family:Montserrat; font-weight:700; font-size:150%; color:#fab300">30% increase in Funnel's software functionality</span> thus enhancing its utility to leasing agents.
-</p>
 
 
