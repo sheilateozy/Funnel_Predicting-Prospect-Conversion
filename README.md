@@ -32,6 +32,6 @@ This project uses 60 million records with 400+ features that contain information
 5. Train & tune models using Bayesian Optimization: Logistic Regression, CatBoost, XGBoost
 6. Obtain SHAP feature importances
   
-#Still curious?
+# Still curious?
 Check out this project on my website <a href="_____">here</a> :)
 
