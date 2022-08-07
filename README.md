@@ -33,5 +33,5 @@ In total, we built 3 models that each predicts a prospective renter's conversion
 <li>30% increase in Funnel's software functionality thus enhancing its utility to leasing agents.
   
 # Still curious?
-Check out this project on my website <a href="_____">here</a> :)
+Check out this project on my website <a href="https://sheilateozy.github.io/#portfolio" target="_blank">here</a> :)
 
