@@ -1,2 +1,2 @@
-# Funnel_Predicting-Prospect-Conversion
-Predicting prospect conversion rate using Logistic Regression, CatBoost, XGBoost
+# Predicting Funnel's prospect conversion
+<b>Using Logistic Regression, CatBoost, Random Forest, XGBoost</b>
